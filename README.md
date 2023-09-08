@@ -1,7 +1,8 @@
 # Puzzle
 ### Hi there 👋
 I'm currently learning C, Python language
-![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
+
+![blender](https://img.shields.io/badge/blender-444444?style=for-the-badge&logo=blender)
 
 
 <!--
