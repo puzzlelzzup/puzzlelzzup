@@ -1,7 +1,7 @@
 # Puzzle
 ### Hi there 👋
 I'm currently learning C, Python language
-<img src = "https://simpleicons.org/icons/blender.svg">
+<img src = "https://simpleicons.org/icons/blender.svg"/blender-#FF8000/style=flat-square&logo=로고(아이콘)&logoColor=로고색상"/>
 
 
 <!--
