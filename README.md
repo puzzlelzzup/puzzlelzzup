@@ -1,4 +1,8 @@
+# Puzzle
 ### Hi there 👋
+I'm currently learning C, Python language
+<img src = "https://simpleicons.org/icons/blender.svg">
+
 
 <!--
 **puzzlelzzup/puzzlelzzup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
