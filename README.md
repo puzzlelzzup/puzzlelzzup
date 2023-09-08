@@ -4,7 +4,7 @@ I'm currently learning C, Python language
 <br>
 #### Interested in
 ![blender](https://img.shields.io/badge/blender-444444?style=for-the-badge&logo=blender)
-![flutter](https://img.shields.io/badge/flutter-#2EFEF7?style=for-the-badge&logo=flutter&logoColor=skyblue)
+![flutter](https://img.shields.io/badge/flutter-444444?style=for-the-badge&logo=flutter&logoColor=skyblue)
 ![unrealengine](https://img.shields.io/badge/unrealengine-444444?style=for-the-badge&logo=unrealengine)
 
 
