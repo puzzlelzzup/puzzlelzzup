@@ -1,8 +1,12 @@
 # Puzzle
-### Hi there 👋
+### Hi there 
 I'm currently learning C, Python language
 
+
+# Interested in
 ![blender](https://img.shields.io/badge/blender-444444?style=for-the-badge&logo=blender)
+![flutter](https://img.shields.io/badge/flutter-444444?style=for-the-badge&logo=flutter)
+
 
 
 <!--
