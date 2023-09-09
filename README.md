@@ -1,4 +1,4 @@
-# Puzzle
+# University Student
 ### Hi there 
 I'm currently learning C, Python language
 <br>
